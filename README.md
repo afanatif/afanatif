@@ -23,7 +23,7 @@ Final-year Artificial Intelligence student at **FAST-NUCES** building end-to-end
 | Role | Company | Period |
 |---|---|---|
 | Software Engineering Intern | **Codematics** | Sep 2025 – Jan 2026 |
-| Software Engineering Intern | **Rhombix** | Apr 2025 – Jul 2025 |
+
 
 ---
 

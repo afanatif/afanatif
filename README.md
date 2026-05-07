@@ -5,7 +5,7 @@
 **AI/ML Engineer · Backend Developer · Final-Year CS Student @ FAST-NUCES Islamabad**
 
 [![Email](https://img.shields.io/badge/Email-i220503@nu.edu.pk-D14836?style=flat&logo=gmail&logoColor=white)](mailto:i220503@nu.edu.pk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-afanatif-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/afanatif](https://www.linkedin.com/in/afan-atif-338676363/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-afanatif-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afan-atif-338676363/)
 [![Location](https://img.shields.io/badge/Location-Abbottabad%2C%20Pakistan-green?style=flat&logo=googlemaps&logoColor=white)](#)
 
 </div>

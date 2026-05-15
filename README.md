@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Afan Atif ðŸ‘‹</h1>
+<h1 align="center">Hi, I'm Afan Atif 👋</h1>
 
 <p align="center">
-  <b>AI/ML Engineer &nbsp;Â·&nbsp; Backend Developer &nbsp;Â·&nbsp; Final-Year AI Student @ FAST-NUCES Islamabad</b>
+  <b>AI/ML Engineer · Backend Developer · Final-Year AI Student @ FAST-NUCES Islamabad</b>
 </p>
 
 <p align="center">
@@ -20,11 +20,11 @@
 
 ## About Me
 
-Final-year **Artificial Intelligence** student at FAST-NUCES building end-to-end ML pipelines, MLOps infrastructure, multi-agent systems, and backend services. I enjoy deploying intelligent systems at scale â€” from federated learning clusters to autonomous multi-agent startups.
+Final-year **Artificial Intelligence** student at FAST-NUCES building end-to-end ML pipelines, MLOps infrastructure, multi-agent systems, and backend services. I enjoy deploying intelligent systems at scale – from federated learning clusters to autonomous multi-agent startups.
 
-- ðŸ”­ Currently working on **AegisDW** â€” Agentic Data Warehouse Modeling Assistant (FYP)
-- ðŸŒ± Exploring **LLM orchestration**, **agentic AI**, and **MLOps at scale**
-- ðŸ’¼ Open to full-time **AI/ML Engineering** and **Software Engineering** roles
+- 🔭 Currently working on **AegisDW** – Agentic Data Warehouse Modeling Assistant (FYP)
+- 🌱 Exploring **LLM orchestration**, **agentic AI**, and **MLOps at scale**
+- 💼 Open to full-time **AI/ML Engineering** and **Software Engineering** roles
 
 ---
 
@@ -32,50 +32,50 @@ Final-year **Artificial Intelligence** student at FAST-NUCES building end-to-end
 
 | Role | Company | Period |
 |---|---|---|
-| Software Engineering Intern | **Codematics** | Sep 2025 â€“ Jan 2026 |
-| Software Engineering Intern | **Rhombix** | Apr 2025 â€“ Jul 2025 |
+| Software Engineering Intern | **Codematics** | Sep 2025 – Jan 2026 |
+| Software Engineering Intern | **Rhombix** | Apr 2025 – Jul 2025 |
 
 ---
 
 ## Featured Projects
 
-### ðŸ¦  [MAXFUSE â€” Multi-Modal Malware Classifier](https://github.com/afanatif/maxfuse-multimodal-malware-classifier)
-> EfficientNet-B0 Â· PyTorch Â· NCA Â· MC-Dropout Â· Energy-Based OOD
+### 🦾 [MAXFUSE – Multi-Modal Malware Classifier](https://github.com/afanatif/maxfuse-multimodal-malware-classifier)
+> EfficientNet-B0 · PyTorch · NCA · MC-Dropout · Energy-Based OOD
 
 Multi-modal architecture coupling a frozen EfficientNet-B0 image branch with an NCA-compressed static-feature branch. Achieves **99.50% closed-set accuracy** on Malimg (25 families, 9,339 binaries) and **0.9984 AUROC** with **0% FPR@95** on zero-day OOD detection.
 
 ---
 
-### ðŸš€ [LaunchMind â€” Autonomous Multi-Agent Startup System](https://github.com/afanatif/launchmind-multi-agent-startup)
-> Python Â· Gemini API Â· Hugging Face Â· GitHub API Â· Slack Block Kit Â· Brevo Â· SQLite
+### 🚀 [LaunchMind – Autonomous Multi-Agent Startup System](https://github.com/afanatif/launchmind-multi-agent-startup)
+> Python · Gemini API · Hugging Face · GitHub API · Slack Block Kit · Brevo · SQLite
 
-Five-agent autonomous MAS (CEO, Product, Engineer, Marketing, QA) that takes any startup idea as a prompt and produces a product spec, working code, real emails, and Slack announcements â€” **without human intervention**.
+Five-agent autonomous MAS (CEO, Product, Engineer, Marketing, QA) that takes any startup idea as a prompt and produces a product spec, working code, real emails, and Slack announcements – **without human intervention**.
 
 ---
 
-### ðŸ›£ï¸ [Federated MLOps â€” Real-Time Road Damage Detection](https://github.com/afanatif/federated-road-detection-mlops)
-> YOLOv8 Â· Docker Â· Kubernetes Â· Prometheus Â· Python
+### 🛣️ [Federated MLOps – Real-Time Road Damage Detection](https://github.com/afanatif/federated-road-detection-mlops)
+> YOLOv8 · Docker · Kubernetes · Prometheus · Python
 
 End-to-end MLOps pipeline for real-time detection of potholes, banners, and cracks using YOLOv8. Federated learning across distributed nodes with Docker, Kubernetes, CI/CD, and Prometheus/Grafana monitoring.
 
 ---
 
-### ðŸ§  [SGVI MediPlan â€” LLM Planning Agent](https://github.com/afanatif/sgvi-mediplan-llm-planning-agent)
-> Python Â· LLM Orchestration Â· Agentic AI
+### 🧠 [SGVI MediPlan – LLM Planning Agent](https://github.com/afanatif/sgvi-mediplan-llm-planning-agent)
+> Python · LLM Orchestration · Agentic AI
 
 Research implementation of *"SGVI: Step-Gated Verification and Incremental Self-Correction for LLM Planning Agents"* applied to autonomous medical appointment coordination with hard constraints.
 
 ---
 
-### ðŸ’¬ [Aspect Sentiment Triplet Extraction](https://github.com/afanatif/aspect-sentiment-triplet-extraction)
-> BERT-CRF Â· PyTorch Â· Contrastive Augmentation Â· HuggingFace
+### 💬 [Aspect Sentiment Triplet Extraction](https://github.com/afanatif/aspect-sentiment-triplet-extraction)
+> BERT-CRF · PyTorch · Contrastive Augmentation · HuggingFace
 
 Unified BERT-CRF sequence labeling for ASTE with contrastive data augmentation and polarity-weighted loss.
 
 ---
 
-### ðŸŒ¸ [MenopaAI â€” Health Assessment Platform](https://github.com/afanatif/menopaai-health-platform)
-> Flask Â· Scikit-learn Â· Chart.js Â· HTML/CSS/JS
+### 🌸 [MenopaAI – Health Assessment Platform](https://github.com/afanatif/menopaai-health-platform)
+> Flask · Scikit-learn · Chart.js · HTML/CSS/JS
 
 Six-model AI diagnostic platform predicting menopause stage, symptom severity, osteoporosis risk, and more. Features explainable AI, Urdu/English localization, and PDF report generation.
 
@@ -125,10 +125,10 @@ Six-model AI diagnostic platform predicting menopause stage, symptom severity, o
 
 ## Education
 
-ðŸŽ“ **B.S. Artificial Intelligence** â€” FAST-NUCES, Islamabad *(Expected Dec 2026)*
+🎓 **B.S. Artificial Intelligence** – FAST-NUCES, Islamabad *(Expected Dec 2026)*
 
-*Data Structures & Algorithms Â· ANNs Â· MLOps Â· Generative AI Â· Agentic AI Â· OS Â· Networks Â· PDC Â· Database Design*
+*Data Structures & Algorithms · ANNs · MLOps · Generative AI · Agentic AI · OS · Networks · PDC · Database Design*
 
 ---
 
-<p align="center"><i>Open to full-time AI/ML Engineering and Software Engineering roles â€” feel free to reach out!</i></p>
+<p align="center"><i>Open to full-time AI/ML Engineering and Software Engineering roles – feel free to reach out!</i></p>

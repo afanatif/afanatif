@@ -11,6 +11,8 @@
 </p>
 
 <p align="center">
+  <a href="https://afanatif.vercel.app/"><img src="assets/portfolio.png" alt="Visit Afan's portfolio website" width="235"></a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/afan-atif-338676363/"><img src="assets/linkedin.png" alt="Connect with Afan on LinkedIn" width="235"></a>
   &nbsp;
   <a href="mailto:i220503@nu.edu.pk"><img src="assets/email.png" alt="Email Afan about projects and engineering opportunities" width="235"></a>
@@ -163,7 +165,7 @@ Node.js/Express APIs, Socket.IO communication, MongoDB schema design, validation
 
 I'm open to **AI/ML engineering and software engineering opportunities**, research collaboration and thoughtful conversations about agents, models and data systems.
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/afan-atif-338676363/) or at [i220503@nu.edu.pk](mailto:i220503@nu.edu.pk).
+See case studies and more at **[afanatif.vercel.app](https://afanatif.vercel.app/)**, or reach me on [LinkedIn](https://www.linkedin.com/in/afan-atif-338676363/) or at [i220503@nu.edu.pk](mailto:i220503@nu.edu.pk).
 
 <p align="center">
   <img src="assets/footer.png" alt="Good models deserve good systems. Research with intent. Engineering with evidence." width="100%">

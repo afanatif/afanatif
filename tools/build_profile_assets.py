@@ -155,7 +155,7 @@ for key,num,title,subtitle,color,desc,stack,footer,mode in projects:
     save(im,key+".png")
 
 # Original contact graphics, kept local with the rest of the artwork.
-for key,title,subtitle in [("linkedin","LINKEDIN","LET'S CONNECT"),("email","EMAIL","START A CONVERSATION")]:
+for key,title,subtitle in [("portfolio","PORTFOLIO","VIEW MY WEBSITE"),("linkedin","LINKEDIN","LET'S CONNECT"),("email","EMAIL","START A CONVERSATION")]:
     im,d=canvas(235,46)
     rect(d,(1,1,234,45),fill=PANEL,outline=LINE,radius=9)
     text(d,(15,13),title,12,MINT,bold=True,mono=True)
